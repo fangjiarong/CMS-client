@@ -6,7 +6,7 @@
       <div :class="{'fixed-header':fixedHeader}">
         <navbar />
       </div>
-      <app-main />
+      <app-main style="padding-top:18px;padding-left:18px;"/>
     </div>
   </div>
 </template>
